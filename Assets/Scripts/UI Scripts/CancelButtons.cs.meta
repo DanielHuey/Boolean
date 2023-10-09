@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8cd1394523f19f42aeb2cd6731f5416
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - toHide: {instanceID: 0}
+  - cancelSound: {fileID: 8300000, guid: ca079885e07512746b1c3cb611dc0f92, type: 3}
+  - fx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
